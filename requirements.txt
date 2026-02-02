@@ -1,4 +1,5 @@
 pytest==8.3.2
-requests==2.32.0
+requests==2.32.3
 flask==2.3.3
 scalekit-sdk-python
+PyYAML==6.0.3
